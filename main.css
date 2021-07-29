@@ -1,0 +1,26 @@
+h1{
+    font-size: 200px;
+    color: red;
+}
+/*img{
+    background-color: red;
+}*/
+.ice-cream{
+    background-color: green;
+    height: 190px;
+}
+.cucumber{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: blue;
+}
+
+#big{
+    font-size: 1000px;
+}
